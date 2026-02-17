@@ -1,0 +1,2823 @@
+﻿[
+    {
+        "name":  "Local Dealz Brand BR01",
+        "logo":  "mock_logo_BR01",
+        "description":  "Local Dealz Brand BR01 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "1 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000001"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR01-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR01-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR01-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR01-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR01-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR02",
+        "logo":  "mock_logo_BR02",
+        "description":  "Local Dealz Brand BR02 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "2 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000002"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR02-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR02-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR02-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR02-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR02-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR03",
+        "logo":  "mock_logo_BR03",
+        "description":  "Local Dealz Brand BR03 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "3 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000003"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR03-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR03-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR03-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR03-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR03-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR04",
+        "logo":  "mock_logo_BR04",
+        "description":  "Local Dealz Brand BR04 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "4 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000004"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR04-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR04-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR04-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR04-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR04-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR05",
+        "logo":  "mock_logo_BR05",
+        "description":  "Local Dealz Brand BR05 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "5 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000005"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR05-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR05-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR05-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR05-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR05-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR06",
+        "logo":  "mock_logo_BR06",
+        "description":  "Local Dealz Brand BR06 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "6 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000006"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR06-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR06-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR06-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR06-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR06-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR07",
+        "logo":  "mock_logo_BR07",
+        "description":  "Local Dealz Brand BR07 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "7 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000007"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR07-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR07-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR07-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR07-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR07-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR08",
+        "logo":  "mock_logo_BR08",
+        "description":  "Local Dealz Brand BR08 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "8 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000008"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR08-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR08-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR08-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR08-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR08-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR09",
+        "logo":  "mock_logo_BR09",
+        "description":  "Local Dealz Brand BR09 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "9 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000009"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR09-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR09-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR09-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR09-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR09-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR10",
+        "logo":  "mock_logo_BR10",
+        "description":  "Local Dealz Brand BR10 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "10 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000010"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR10-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR10-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR10-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR10-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR10-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR11",
+        "logo":  "mock_logo_BR11",
+        "description":  "Local Dealz Brand BR11 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "11 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000011"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR11-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR11-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR11-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR11-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR11-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR12",
+        "logo":  "mock_logo_BR12",
+        "description":  "Local Dealz Brand BR12 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "12 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000012"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR12-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR12-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR12-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR12-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR12-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR13",
+        "logo":  "mock_logo_BR13",
+        "description":  "Local Dealz Brand BR13 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "13 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000013"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR13-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR13-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR13-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR13-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR13-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR14",
+        "logo":  "mock_logo_BR14",
+        "description":  "Local Dealz Brand BR14 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "14 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000014"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR14-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR14-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR14-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR14-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR14-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR15",
+        "logo":  "mock_logo_BR15",
+        "description":  "Local Dealz Brand BR15 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "15 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000015"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR15-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR15-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR15-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR15-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR15-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR16",
+        "logo":  "mock_logo_BR16",
+        "description":  "Local Dealz Brand BR16 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "16 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000016"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR16-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR16-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR16-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR16-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR16-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR17",
+        "logo":  "mock_logo_BR17",
+        "description":  "Local Dealz Brand BR17 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "17 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000017"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR17-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR17-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR17-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR17-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR17-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR18",
+        "logo":  "mock_logo_BR18",
+        "description":  "Local Dealz Brand BR18 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "18 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000018"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR18-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR18-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR18-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR18-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR18-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR19",
+        "logo":  "mock_logo_BR19",
+        "description":  "Local Dealz Brand BR19 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "19 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000019"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR19-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR19-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR19-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR19-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR19-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR20",
+        "logo":  "mock_logo_BR20",
+        "description":  "Local Dealz Brand BR20 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "20 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000020"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR20-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR20-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR20-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR20-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR20-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR21",
+        "logo":  "mock_logo_BR21",
+        "description":  "Local Dealz Brand BR21 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "21 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000021"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR21-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR21-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR21-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR21-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR21-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR22",
+        "logo":  "mock_logo_BR22",
+        "description":  "Local Dealz Brand BR22 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "22 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000022"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR22-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR22-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR22-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR22-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR22-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR23",
+        "logo":  "mock_logo_BR23",
+        "description":  "Local Dealz Brand BR23 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "23 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000023"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR23-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR23-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR23-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR23-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR23-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR24",
+        "logo":  "mock_logo_BR24",
+        "description":  "Local Dealz Brand BR24 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "24 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000024"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR24-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR24-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR24-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR24-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR24-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR25",
+        "logo":  "mock_logo_BR25",
+        "description":  "Local Dealz Brand BR25 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "25 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000025"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR25-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR25-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR25-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR25-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR25-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR26",
+        "logo":  "mock_logo_BR26",
+        "description":  "Local Dealz Brand BR26 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "26 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000026"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR26-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR26-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR26-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR26-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR26-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR27",
+        "logo":  "mock_logo_BR27",
+        "description":  "Local Dealz Brand BR27 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "27 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000027"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR27-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR27-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR27-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR27-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR27-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR28",
+        "logo":  "mock_logo_BR28",
+        "description":  "Local Dealz Brand BR28 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "28 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000028"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR28-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR28-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR28-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR28-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR28-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR29",
+        "logo":  "mock_logo_BR29",
+        "description":  "Local Dealz Brand BR29 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "29 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000029"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR29-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR29-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR29-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR29-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR29-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR30",
+        "logo":  "mock_logo_BR30",
+        "description":  "Local Dealz Brand BR30 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "30 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000030"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR30-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR30-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR30-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR30-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR30-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR31",
+        "logo":  "mock_logo_BR31",
+        "description":  "Local Dealz Brand BR31 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "31 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000031"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR31-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR31-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR31-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR31-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR31-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR32",
+        "logo":  "mock_logo_BR32",
+        "description":  "Local Dealz Brand BR32 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "32 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000032"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR32-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR32-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR32-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR32-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR32-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR33",
+        "logo":  "mock_logo_BR33",
+        "description":  "Local Dealz Brand BR33 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "33 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000033"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR33-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR33-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR33-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR33-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR33-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR34",
+        "logo":  "mock_logo_BR34",
+        "description":  "Local Dealz Brand BR34 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "34 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000034"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR34-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR34-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR34-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR34-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR34-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR35",
+        "logo":  "mock_logo_BR35",
+        "description":  "Local Dealz Brand BR35 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "35 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000035"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR35-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR35-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR35-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR35-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR35-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR36",
+        "logo":  "mock_logo_BR36",
+        "description":  "Local Dealz Brand BR36 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "36 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000036"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR36-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR36-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR36-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR36-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR36-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR37",
+        "logo":  "mock_logo_BR37",
+        "description":  "Local Dealz Brand BR37 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "37 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000037"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR37-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR37-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR37-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR37-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR37-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR38",
+        "logo":  "mock_logo_BR38",
+        "description":  "Local Dealz Brand BR38 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "38 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000038"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR38-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR38-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR38-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR38-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR38-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR39",
+        "logo":  "mock_logo_BR39",
+        "description":  "Local Dealz Brand BR39 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "39 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000039"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR39-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR39-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR39-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR39-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR39-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR40",
+        "logo":  "mock_logo_BR40",
+        "description":  "Local Dealz Brand BR40 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "40 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000040"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR40-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR40-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR40-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR40-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR40-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR41",
+        "logo":  "mock_logo_BR41",
+        "description":  "Local Dealz Brand BR41 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "41 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000041"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR41-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR41-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR41-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR41-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR41-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR42",
+        "logo":  "mock_logo_BR42",
+        "description":  "Local Dealz Brand BR42 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "42 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000042"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR42-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR42-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR42-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR42-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR42-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR43",
+        "logo":  "mock_logo_BR43",
+        "description":  "Local Dealz Brand BR43 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "43 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000043"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR43-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR43-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR43-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR43-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR43-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR44",
+        "logo":  "mock_logo_BR44",
+        "description":  "Local Dealz Brand BR44 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "44 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000044"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR44-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR44-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR44-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR44-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR44-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR45",
+        "logo":  "mock_logo_BR45",
+        "description":  "Local Dealz Brand BR45 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "45 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000045"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR45-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR45-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR45-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR45-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR45-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR46",
+        "logo":  "mock_logo_BR46",
+        "description":  "Local Dealz Brand BR46 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "46 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000046"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR46-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR46-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR46-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR46-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR46-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR47",
+        "logo":  "mock_logo_BR47",
+        "description":  "Local Dealz Brand BR47 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "47 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000047"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR47-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR47-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR47-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR47-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR47-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR48",
+        "logo":  "mock_logo_BR48",
+        "description":  "Local Dealz Brand BR48 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "48 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000048"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR48-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR48-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR48-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR48-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR48-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR49",
+        "logo":  "mock_logo_BR49",
+        "description":  "Local Dealz Brand BR49 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "49 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000049"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR49-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR49-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR49-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR49-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR49-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR50",
+        "logo":  "mock_logo_BR50",
+        "description":  "Local Dealz Brand BR50 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "50 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000050"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR50-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR50-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR50-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR50-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR50-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR51",
+        "logo":  "mock_logo_BR51",
+        "description":  "Local Dealz Brand BR51 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "51 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000051"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR51-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR51-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR51-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR51-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR51-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR52",
+        "logo":  "mock_logo_BR52",
+        "description":  "Local Dealz Brand BR52 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "52 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000052"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR52-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR52-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR52-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR52-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR52-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR53",
+        "logo":  "mock_logo_BR53",
+        "description":  "Local Dealz Brand BR53 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "53 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000053"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR53-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR53-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR53-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR53-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR53-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR54",
+        "logo":  "mock_logo_BR54",
+        "description":  "Local Dealz Brand BR54 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "54 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000054"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR54-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR54-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR54-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR54-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR54-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR55",
+        "logo":  "mock_logo_BR55",
+        "description":  "Local Dealz Brand BR55 ofrece beneficios locales en Kurukshetra para la categoria Food.",
+        "category":  "Food",
+        "contact":  {
+                        "address":  "55 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000055"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR55-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR55-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR55-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR55-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR55-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR56",
+        "logo":  "mock_logo_BR56",
+        "description":  "Local Dealz Brand BR56 ofrece beneficios locales en Kurukshetra para la categoria Fashion.",
+        "category":  "Fashion",
+        "contact":  {
+                        "address":  "56 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000056"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR56-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR56-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR56-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR56-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR56-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR57",
+        "logo":  "mock_logo_BR57",
+        "description":  "Local Dealz Brand BR57 ofrece beneficios locales en Kurukshetra para la categoria Salon.",
+        "category":  "Salon",
+        "contact":  {
+                        "address":  "57 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000057"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR57-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR57-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR57-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR57-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR57-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR58",
+        "logo":  "mock_logo_BR58",
+        "description":  "Local Dealz Brand BR58 ofrece beneficios locales en Kurukshetra para la categoria Services.",
+        "category":  "Services",
+        "contact":  {
+                        "address":  "58 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000058"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR58-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR58-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR58-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR58-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR58-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR59",
+        "logo":  "mock_logo_BR59",
+        "description":  "Local Dealz Brand BR59 ofrece beneficios locales en Kurukshetra para la categoria Electronics.",
+        "category":  "Electronics",
+        "contact":  {
+                        "address":  "59 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000059"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR59-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR59-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR59-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR59-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR59-FLAT250"
+                        }
+                    ]
+    },
+    {
+        "name":  "Local Dealz Brand BR60",
+        "logo":  "mock_logo_BR60",
+        "description":  "Local Dealz Brand BR60 ofrece beneficios locales en Kurukshetra para la categoria Fitness.",
+        "category":  "Fitness",
+        "contact":  {
+                        "address":  "60 Sector Market Road, Kurukshetra",
+                        "phone":  "+91-905000060"
+                    },
+        "coupons":  [
+                        {
+                            "title":  "50% off en combo especial",
+                            "description":  "Disponible en compras superiores a INR 499",
+                            "terms":  "No acumulable con otras promos",
+                            "valid_until":  "2026-06-30",
+                            "code":  "BR60-SAVE50"
+                        },
+                        {
+                            "title":  "Compra 1 y llevate 1",
+                            "description":  "Aplicable en productos seleccionados",
+                            "terms":  "Maximo 1 redencion por usuario",
+                            "valid_until":  "2026-07-15",
+                            "code":  "BR60-B1G1"
+                        },
+                        {
+                            "title":  "30% descuento fin de semana",
+                            "description":  "Valido viernes a domingo",
+                            "terms":  "Sujeto a disponibilidad",
+                            "valid_until":  "2026-08-01",
+                            "code":  "BR60-WKND30"
+                        },
+                        {
+                            "title":  "Cupon de bienvenida 20%",
+                            "description":  "Para nuevos clientes en tienda",
+                            "terms":  "Requiere mostrar app",
+                            "valid_until":  "2026-09-10",
+                            "code":  "BR60-HELLO20"
+                        },
+                        {
+                            "title":  "Ahorra INR 250",
+                            "description":  "Descuento directo en factura",
+                            "terms":  "Minimo de compra INR 1200",
+                            "valid_until":  "2026-10-31",
+                            "code":  "BR60-FLAT250"
+                        }
+                    ]
+    }
+]
+

@@ -1,0 +1,612 @@
+{
+  "negocios": [
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Akshay Premium Solar",
+      "direccion": "Amin Road, Sunder Pur Chowk, Kurukshetra, Hariyana 136118",
+      "telefono": "9996291901",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/akshay-premium-solar"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Makoons Kurukshetra Haryana",
+      "direccion": "Building no-P2, Sec-4, Urban Estate, kurukshetra Haryana 136118",
+      "telefono": "+91 86078 10007",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/makoons"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Lacmm Group",
+      "direccion": "7 Kms. from G.T.Road, on Shahabad-Barara Road, Ugala, Ambala-133 205",
+      "telefono": "98120 65918",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/lacmm-group"
+    },
+    {
+      "categoria": "Immigration",
+      "nombre": "IC Square (Imperial Careers Consultants)",
+      "direccion": "SCF 33-34, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+      "telefono": "90345 90385",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/ic-square"
+    },
+    {
+      "categoria": "Grocery",
+      "nombre": "Shrichand Supermart",
+      "direccion": "Subhash mandi, Opposite Union Bank of India , Kurukshetra, India, 136118",
+      "telefono": "+91 70155 58288",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/shrichand-supermart.php"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Idea Learning Academy",
+      "direccion": "9, Jain Nagar, Prem Nagar, Ambala, Haryana 134003",
+      "telefono": "92151 41004",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/idea-learning-academy.php"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "The Tuition Centre",
+      "direccion": "SCO 46 Sarpanch Complex, Opposite New Bus Stand, Babain",
+      "telefono": "93310 93310",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/the-tuition-centre.php"
+    },
+    {
+      "categoria": "Accessories & Cosmetics",
+      "nombre": "Shyam Shringar",
+      "direccion": "B.K. Market, Near Kalyan Jewellers, Opp. Petrol Pump, Kurukshetra, Haryana 136118",
+      "telefono": "92555 66645",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/shyam-shringar"
+    },
+    {
+      "categoria": "Restaurant",
+      "nombre": "DK Radiance",
+      "direccion": "Sco 234, Sector 10, Kurukshetra, Haryana 136118",
+      "telefono": null,
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/d-k-residence"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "RK Graphics",
+      "direccion": "Opposite New Bus Stand, near Alpine Hotel, Kurukshetra, Haryana 136118",
+      "telefono": "90502 70703",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/rk-graphics"
+    },
+    {
+      "categoria": "Interior Designer",
+      "nombre": "Trivedi Meta Modular",
+      "direccion": "Sector-8, Opp. Women Police Station, Kurukshetra, Haryana 136118",
+      "telefono": "95417 46769",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/trivedi-metamodular"
+    },
+    {
+      "categoria": "Vastu Consultant",
+      "nombre": "Vastu Dwar",
+      "direccion": "Kurukshetra",
+      "telefono": "92665 10550",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/vastu-dwar"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Zak The Unisex Salon",
+      "direccion": "SCO 48, 1st floor, Sec 17, Near Kessal Mall, Kurukshetra, India, Haryana",
+      "telefono": "72062 16701",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/zak-the-unisex-salon"
+    },
+    {
+      "categoria": "Tour & Travel",
+      "nombre": "Sizzy Tours Pvt. Ltd.",
+      "direccion": "LIC Road, Geeta Colony, Sector 17, Thanesar, Kurukshetra, Haryana 136118",
+      "telefono": "98130 20130",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/sizzy-tours"
+    },
+    {
+      "categoria": "Handloom",
+      "nombre": "Lal Handloom Emporium",
+      "direccion": "Ambedkar Chowk, Kurukshetra, Thanesar, Haryana 136118",
+      "telefono": "82838 89106",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/lal-handlooms-emporium"
+    },
+    {
+      "categoria": "Handloom",
+      "nombre": "Kabir Handloom",
+      "direccion": "Kabir Complex, Near Pizza Zone, Umri Road, Kurukshetra, Haryana - 136118",
+      "telefono": "90538 95538",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/kabir-handoom"
+    },
+    {
+      "categoria": "Immigration",
+      "nombre": "Wider World Consultants",
+      "direccion": "SCO 231, Sector 10, Kurukshetra 136118",
+      "telefono": "90530 97400",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/wider-world-consultants"
+    },
+    {
+      "categoria": "Accessories & Cosmetics",
+      "nombre": "Diva's Desire",
+      "direccion": "#31, New Colony, Opp Shani Mandir, Near Railway Station, Kurukshetra, Haryana 136118",
+      "telefono": "70153 40413",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/divas-desire"
+    },
+    {
+      "categoria": "Immigration",
+      "nombre": "Highflyers Overseas",
+      "direccion": "SCO 70-71, First Floor, DD Complex, near BS Heart Care Hospital, DD colony, Kurukshetra, Haryana 136118",
+      "telefono": "89543 40001",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/high-flyer-overseas"
+    },
+    {
+      "categoria": "Immigration",
+      "nombre": "Radhe Immigration",
+      "direccion": "Sco 212 First Floor, Sector 10, Kurukshetra, India 136118",
+      "telefono": "70275 95678",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/radhe-immigration"
+    },
+    {
+      "categoria": "GYM & Nutrition",
+      "nombre": "City Gym N Spa",
+      "direccion": "City Gym and Spa, University Bypass Road, Opposite Goel Gass Agency, Laxman Colony, Kurukshetra, Haryana 136118",
+      "telefono": "99912 35321",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/city-gym"
+    },
+    {
+      "categoria": "GYM & Nutrition",
+      "nombre": "Horse Power Nutrition Store",
+      "direccion": "Main Bazar, Laxman Chonk, Near Birla Mandir, Kurukshetra, Haryana 136118",
+      "telefono": "93365 00004",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/horse-power-nutrition"
+    },
+    {
+      "categoria": "Health & Checkup",
+      "nombre": "Om Clinical Laboratory",
+      "direccion": "New Laxman Colony, Near Tara Chand Dharamshala, Kurukshetra 136118",
+      "telefono": "94675 15132",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/om-sai-lab"
+    },
+    {
+      "categoria": "Digital Marketing Institute",
+      "nombre": "Digi Media Expert",
+      "direccion": "SCO 220, 2nd floor, Sector - 10, Kurukshetra, India 136118",
+      "telefono": "87089 32263",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/digi-media-expert"
+    },
+    {
+      "categoria": "Ice Cream Parlour",
+      "nombre": "Om Sai Lotus Ice Cream Parlour",
+      "direccion": "Amin Rd, Brahma Colony, Vishnu Colony, Kurukshetra, Haryana 136118",
+      "telefono": "99923 48211",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/lotus-ice-cream"
+    },
+    {
+      "categoria": "Bakery",
+      "nombre": "Cakes By Shiddat",
+      "direccion": "59A, Hari Nagar, Behind Chatha Complex, DD colony, Kurukshetra, Kheri Markanda Part, Haryana 136118",
+      "telefono": "99960 43989",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/cakes-by-shiddat"
+    },
+    {
+      "categoria": "Restaurant",
+      "nombre": "Hotel Saffron",
+      "direccion": "Main pipli road Kurukshetra, Haryana, India 136118.",
+      "telefono": "98125 01516",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/hotel-saffron"
+    },
+    {
+      "categoria": "Restaurant",
+      "nombre": "Hotel Amber",
+      "direccion": "Pipli Rd, Urban Estate, Sector 7, Kurukshetra, Haryana 136118",
+      "telefono": "90537 20533",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/hotel-amber"
+    },
+    {
+      "categoria": "Restaurant",
+      "nombre": "Mr. Chicken",
+      "direccion": "Shop 734, 5A, Pipli Rd, near Electricity Board, Pipli, Kurukshetra, Haryana 136131",
+      "telefono": "090503 34462",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/mr-chicken.php"
+    },
+    {
+      "categoria": "Restaurant",
+      "nombre": "Dev Anchal Vaishno Dhaba",
+      "direccion": "HP Petrol Pump, Near Kurukshetra University, Kurukshetra",
+      "telefono": "9728712175",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/dev-anchal-dhaba.php"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Nail Tool Hub",
+      "direccion": "Opposite Gurunanak School Junior Wing, Railway Road, Thanesar-136118",
+      "telefono": "072065 55223",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/nail-tool-hub.php"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "BBS Saloon",
+      "direccion": "50 Feet road, Beside Shri Bala Ji Mandir, Kurukshetra, Haryana- 136118",
+      "telefono": "92532 46766",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/bbs-saloon.php"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Curl O Hair",
+      "direccion": "S.C.F-48, Ground Floor, Sector-7, Kurukshetra, India, Haryana",
+      "telefono": "088148 00786",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/curl-o-hair"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Annie Unisex Salon",
+      "direccion": "1st floor, Annie Unisex Salon & International Academy, Vidhata Complex, SCO 8, opp. New Bus Stand, DD colony, Kurukshetra, Haryana 136118",
+      "telefono": "+91 81999 27810",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/loreal-annie-unisex-salon-international-academy"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Intezar salon",
+      "direccion": "partap public school, near mararana, Urban Estate, Sector 7, Kurukshetra, Haryana 136118",
+      "telefono": "7977743692",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/intezar-salon"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Kavi's Makeup Studio",
+      "direccion": "Amin Rd, near FCI Godam, Shastri Nagar, Kurukshetra, India, Haryana",
+      "telefono": "098960 93377",
+      "email": "contact@kavismakeupstudio.in",
+      "url": "https://kurukshetra.localdealsz.in/kavis-makeup-studio"
+    },
+    {
+      "categoria": "Salon",
+      "nombre": "Khan Hair Expenso",
+      "direccion": "SCO 55-56, Sector 17, Kurukshetra, India, Haryana",
+      "telefono": "098123 62083",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/khan-hair-expenso"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Kohinoor Guest House",
+      "direccion": "Amin Rd, Brahma Colony, Thanesar, Kurukshetra, Haryana 136118",
+      "telefono": "0124 433 0575",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/kohinoor-guest-house"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "KS Febtech",
+      "direccion": "Amin Road, Opp. Sai Mandir, Kurukshetra",
+      "telefono": "9215400070",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/ks-febtech"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Ishaan solar",
+      "direccion": "plot no 40 near paras kanta, Bhadarkali chowk , jhansha road , Thanesar, Kurukshetra, India, Haryana",
+      "telefono": null,
+      "email": "ishaanbrightenergy@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/ishaan-solar"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Sunshine Solar",
+      "direccion": "Sadhu Farm, Narkatari Rd, Darra Khera, Kalyan Nagar, Thanesar, Kurukshetra, Haryana 136118",
+      "telefono": "070825 88870",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/sun-shine-solar"
+    },
+    {
+      "categoria": "Mutual Funds & Insurance",
+      "nombre": "Mera Bima",
+      "direccion": "MERA BIMA , NEAR SUNITA NURSING HOME ,SECTOR-17, KURUKSHETRA, Kurukshetra, India, Haryana",
+      "telefono": "098966 77625",
+      "email": "mail.merabima@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/mera-bima"
+    },
+    {
+      "categoria": "Miscellaneous",
+      "nombre": "Shiv Advertisers",
+      "direccion": "sirsla road , mohan nagar , Kurukshetra, India, Haryana",
+      "telefono": "97294 44471",
+      "email": "shivadvertiserskkr@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/shiv-advertisers"
+    },
+    {
+      "categoria": "Health & Checkup",
+      "nombre": "Dr. Lal Pathlabs",
+      "direccion": "Shop No 104, Huda Market Sector 7 Kurukshetra - 136118",
+      "telefono": "8062844036",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/dr-lal-pathlabs"
+    },
+    {
+      "categoria": "Health & Checkup",
+      "nombre": "Hindustan lab",
+      "direccion": "paras cinema road, Kurukshetra, India, Haryana",
+      "telefono": "094667 72563",
+      "email": "hindustanmedicallab@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/hindustan-lab"
+    },
+    {
+      "categoria": "Health & Checkup",
+      "nombre": "shri ram lab",
+      "direccion": "Kurukshetra, India, Haryana",
+      "telefono": "+91 93543 60008",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/shri-ram-lab"
+    },
+    {
+      "categoria": "Health & Checkup",
+      "nombre": "City Maxx Healthcare Lab",
+      "direccion": "Kurukshetra, HR, India, Kurukshetra, India, 136131",
+      "telefono": "078560 07856",
+      "email": "citymaxxkkr@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/city-maxx-healthcare-lab"
+    },
+    {
+      "categoria": "Grocery",
+      "nombre": "Raashan Wala",
+      "direccion": "SCO 10/11 Opposite Sector-7,Pipli Road , Kurukshetra, India, Haryana",
+      "telefono": "094858 72001",
+      "email": "raashanwalaa@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/raashan-wala"
+    },
+    {
+      "categoria": "Grocery",
+      "nombre": "Meli Ram",
+      "direccion": "next to Sbi Bank, Parvati Vihar, Kurukshetra, Thanesar, Haryana 136118",
+      "telefono": "094160 38072",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/meli-ram"
+    },
+    {
+      "categoria": "Gift Gallery",
+      "nombre": "Paigam Gift Gallery",
+      "direccion": "Opposite Hotel Pearl Marc , Kurukshetra",
+      "telefono": "+91 85718 00808",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/paigam-gift-gallery"
+    },
+    {
+      "categoria": "Furniture",
+      "nombre": "International Furniture",
+      "direccion": "Railway Road, Thanesar, Kurukshetra - 136118 (Near Krishna Dham Market,Opp Canara Bank)",
+      "telefono": "9416258714",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/international-furniture"
+    },
+    {
+      "categoria": "Furniture",
+      "nombre": "Shri Krishna Furniture",
+      "direccion": "Opposite Sanjog Palace, Saraswati Bridge, Jhansa Road , Kurukshetra - 136118 (Haryana) India",
+      "telefono": "099920 59123",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/shri-krishna-furniture"
+    },
+    {
+      "categoria": "Fast Food",
+      "nombre": "Inforno Pizzeria",
+      "direccion": "Vishnu Colony, Railway Road, Kurukshetra (Near by Bikaner) - 136118",
+      "telefono": "9812973864",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/inferno-pizzeria"
+    },
+    {
+      "categoria": "Fast Food",
+      "nombre": "Pizza Zone",
+      "direccion": "Kabir Complex, Umri Road, Near Shani Mandir, Kurukshetra. Umri, Haryana",
+      "telefono": "702-784-8400",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/pizza-zone"
+    },
+    {
+      "categoria": "Fast Food",
+      "nombre": "Jatt's Pizza",
+      "direccion": "Jatt's Pizza #SCO 126, Sector 7 Market, Kurukshetra, India 136118",
+      "telefono": "7528989475",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/jatts-pizza"
+    },
+    {
+      "categoria": "Dhaba & Guest House",
+      "nombre": "Gopal Kadhi Chawal",
+      "direccion": "Railway Rd, opp. Head Post Office, Brahma Colony, New Colony, Kurukshetra",
+      "telefono": "79882 28505",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/gopal-kadi-chawal"
+    },
+    {
+      "categoria": "Dental Clinic",
+      "nombre": "Aggarwal Dentist",
+      "direccion": "Opp- Sector 17, Petrol Pump Near, Old Bus Stand, Kurukshetra, Haryana 136118",
+      "telefono": null,
+      "email": "agarwaldentalclinickkr@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/aggarwal-dentist"
+    },
+    {
+      "categoria": "Dental Clinic",
+      "nombre": "Shristi Dental clinic",
+      "direccion": "opp jagdish cloth house railway road, Kurukshetra, India 136118",
+      "telefono": "8295002073",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/shristi-dental-clinic"
+    },
+    {
+      "categoria": "Cosmetic",
+      "nombre": "Raja Ram & Sons",
+      "direccion": "Railway Road, Bank Colony, Kurukshetra, (Near Railway Station)",
+      "telefono": "097287 95555",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/raja-ram-sons"
+    },
+    {
+      "categoria": "Cosmetic",
+      "nombre": "Geeta Sons",
+      "direccion": "Subhash Mandi 2nd Gate, near Union Bank of India, Kurukshetra, Haryana 136118",
+      "telefono": "8607308417",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/geeta-sons"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Adhyayan Institute",
+      "direccion": "100 Feet KDB Road, Kurukshetra, India, Haryana",
+      "telefono": "090345 51345",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/adhyan-institute"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "GIFA ART COLLEGE",
+      "direccion": "SCO 59 Sector 17 Kurukshetra Haryana",
+      "telefono": "9992588777",
+      "email": "gifaartcollege@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/gifa-art-college"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Kaushik Classes",
+      "direccion": "Near 9th Planet Hotel, Kurukshetra Nursing Home, Pipli Road Kurukshetra",
+      "telefono": "7082415004",
+      "email": "kaushikclasses@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/kaushik-classes"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Commerce Eminence Academy",
+      "direccion": "1653 23, Salarpur Rd, near Arora Diary, Vishnu Colony, Kurukshetra, Haryana 136118",
+      "telefono": "9017639392",
+      "email": "commerceeminenceacademy@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/commerce-eminence-academy"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Vastik Institute",
+      "direccion": "P-211, Sector 7,Opp.-IDFC First Bank,Pipli Road, Kurukshetra",
+      "telefono": "90342-96010",
+      "email": "vastikcareerinstitute@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/vastic-institute"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Wyne Src Acadmy",
+      "direccion": "Sco-45, First Floor, Sector-7, Kurukshetra",
+      "telefono": "81682 99334",
+      "email": "Sawanchhabra1994@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/wyne-acadmy"
+    },
+    {
+      "categoria": "Coaching Institute",
+      "nombre": "Advance Study Sector",
+      "direccion": "50 FEET ROAD, HARGOBIND NAGAR, SALARPUR ROAD",
+      "telefono": "99965 70747",
+      "email": "advanceskillsector@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/advance-study-sector"
+    },
+    {
+      "categoria": "Clothing",
+      "nombre": "Swag kurukshetra",
+      "direccion": "23,acharya shri chand market,kachha gher, Kurukshetra, India, Haryana",
+      "telefono": "98022 22940",
+      "email": "anks.arora7@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/swag-kurukshetra"
+    },
+    {
+      "categoria": "Clothing",
+      "nombre": "GK Fashion",
+      "direccion": "Shop No 4 Arya Samaj, Kurukshetra, Haryana 136118",
+      "telefono": "81682 99334",
+      "email": "Sawanchhabra1994@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/gk-fashion"
+    },
+    {
+      "categoria": "Clothing",
+      "nombre": "Univastra",
+      "direccion": "sco55, Sector 17, Kurukshetra,",
+      "telefono": "9996024048",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/univastra"
+    },
+    {
+      "categoria": "Clothing",
+      "nombre": "Veed",
+      "direccion": "Shop no 7,10 aarya samaj market,opp sec 17 KURUKSHETRA",
+      "telefono": "80597 52828",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/veed"
+    },
+    {
+      "categoria": "Dry Cleaner",
+      "nombre": "Tumbledry Dry Clean & Laundry Service",
+      "direccion": "SCO No 56, First Floor, Hudda Market, Kurukshetra, Haryana",
+      "telefono": "076772 50250",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/tumble-dry"
+    },
+    {
+      "categoria": "Car Detailing & Service Station",
+      "nombre": "Auto therapy",
+      "direccion": "KDB Rd, opposite KR palace, Vishwas Nagar, Gurdev Nagar, Kurukshetra, Haryana 136118",
+      "telefono": "98123 40015",
+      "email": "autotherapykkr@gmail.com",
+      "url": "https://kurukshetra.localdealsz.in/auto-therapy"
+    },
+    {
+      "categoria": "Car Detailing & Service Station",
+      "nombre": "AutoworX",
+      "direccion": "Behind Shop No 1, Saini Market, Sunderpur, Thanesar, Near Lions Club Chowk, Kurukshetra, Haryana 136118",
+      "telefono": "90346 80005",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/autoworx"
+    },
+    {
+      "categoria": "Car Detailing & Service Station",
+      "nombre": "Guru Nanak Tyre House Kurukshetra",
+      "direccion": "shop number 10, Gita School market, Railway Road, Opp. Relaxo B.O. Guru Nanak Tyre, Opposite Hotel Rahat, 100 feet road, kkr, Kurukshetra, India, 136118",
+      "telefono": "98962 60413",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/guru-nanak-tyre-house-kurukshetra"
+    },
+    {
+      "categoria": "Cafe",
+      "nombre": "Barista Kurukshetra",
+      "direccion": "Ground floor showroom no. 1 & 2, beside Hotel Celestial by 4KD Hotels, Park, opp. Sector 10, Kurukshetra, Haryana 136118",
+      "telefono": "72061 88022",
+      "email": null,
+      "url": "https://kurukshetra.localdealsz.in/barista-kurukshetra"
+    }
+  ]
+}
